@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: Astahub - Disable default Dashboard items
-Plugin URI: 
-Description: Disable build in dashboard items: Welcome, WordPress Events and News, Activity, At a Glance.
+Plugin URI: https://github.com/astahub/astahub-disable-default-dashboard
+Description: Disable build in dashboard items widget.
 Author: harisrozak
-Author URI: 
+Author URI: https://github.com/harisrozak
 Version: 0.1
 Text Domain: astahub-disable-dashboard-items
 License: GPL version 2 or later - http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
